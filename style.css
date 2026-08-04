@@ -1,0 +1,105 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f4f7fb;
+}
+
+header{
+    background:#0d6efd;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+nav{
+    background:#222;
+    text-align:center;
+    padding:15px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-size:18px;
+}
+
+nav a:hover{
+    color:yellow;
+}
+
+.hero{
+    text-align:center;
+    padding:60px 20px;
+}
+
+.hero h2{
+    font-size:40px;
+}
+
+.hero p{
+    font-size:20px;
+}
+
+button{
+    background:#0d6efd;
+    color:white;
+    border:none;
+    padding:15px 30px;
+    font-size:18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#084298;
+}
+
+.classes{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:20px;
+    padding:40px;
+}
+
+.card{
+    width:250px;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+.card a{
+    display:inline-block;
+    margin-top:15px;
+    background:#0d6efd;
+    color:white;
+    padding:10px 20px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+.card a:hover{
+    background:#084298;
+}
+.fraction {
+    display: inline-block;
+    text-align: center;
+}
+
+.fraction hr {
+    margin: 2px 0;
+    width: 30px;
+}
+.fraction {
+    display: inline-block;
+    text-align: center;
+}
+
+.fraction hr {
+    margin: 2px 0;
+    width: 30px;
+}
