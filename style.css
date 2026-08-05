@@ -11,6 +11,14 @@ header{
     padding:25px;
 }
 
+.logo {
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    display:block;
+    margin:auto;
+}
+
 nav{
     background:#222;
     text-align:center;
@@ -85,21 +93,16 @@ button:hover{
 .card a:hover{
     background:#084298;
 }
+
+
+/* Fraction Style */
+
 .fraction {
-    display: inline-block;
-    text-align: center;
+    display:inline-block;
+    text-align:center;
 }
 
 .fraction hr {
-    margin: 2px 0;
-    width: 30px;
-}
-.fraction {
-    display: inline-block;
-    text-align: center;
-}
-
-.fraction hr {
-    margin: 2px 0;
-    width: 30px;
+    margin:2px 0;
+    width:30px;
 }
