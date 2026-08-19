@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-<loc>https://easystudyhub.github.io/schoolwebsite/</loc>
-</url>
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/</loc>
+  </url>
 
-<url>
-<loc>https://easystudyhub.github.io/schoolwebsite/pages/class6.html</loc>
-</url>
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class6.html</loc>
+  </url>
 
-<url>
-<loc>https://easystudyhub.github.io/schoolwebsite/pages/class9.html</loc>
-</url>
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class6-maths.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class9.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class9-maths.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class9-maths-chapter1.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class9-maths-exercise1-1.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class10.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class10-maths.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class10-maths-chapter1.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/class10-maths-chapter2.html</loc>
+  </url>
+
+  <url>
+    <loc>https://easystudyhub.github.io/schoolwebsite/chapter1.html</loc>
+  </url>
 
 </urlset>
